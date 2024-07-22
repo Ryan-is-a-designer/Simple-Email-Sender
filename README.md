@@ -19,7 +19,7 @@ The Simple Email Sender plugin allows administrators to send emails from the Wor
 
 ## Screenshot
 
-![Simple Email Sender Screenshot](screenshot.png)
+![Simple Email Sender Screenshot](Screenshot.jpg)
 
 ## Changelog
 
